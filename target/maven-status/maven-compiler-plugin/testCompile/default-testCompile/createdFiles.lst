@@ -1,0 +1,9 @@
+com\sg\pages\PatientFinderPage.class
+com\sg\pages\DashboardPage.class
+com\sg\runner\RunnerTest.class
+com\sg\stepdefinitions\LoginStepDefinition.class
+com\sg\pages\LoginPage.class
+com\sg\pages\AddPatientPage.class
+com\sg\stepdefinitions\PatientStepDefinition.class
+com\sg\base\WebDriverWrapper.class
+com\sg\pages\MedicalRecordDashboardPage.class
